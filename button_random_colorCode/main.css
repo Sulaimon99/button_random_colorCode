@@ -1,0 +1,17 @@
+body{
+	min-height: 100vh;
+	justify-content: center;
+	align-items: center;
+	display: flex;
+}
+
+.container{
+	text-align: center;
+}
+
+.hexcolor{
+	text-transform: capitalize;
+}
+.hex{
+	font-size: 3em;
+}
